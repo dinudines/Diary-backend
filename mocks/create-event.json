@@ -1,0 +1,8 @@
+{
+    "body": "{\"content\": {\"firstName\":\"dinesh\",\"lastName\": \"k\"}}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "dinesh"
+      }
+    }
+  }
